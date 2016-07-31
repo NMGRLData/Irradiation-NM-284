@@ -1,0 +1,57 @@
+{
+    "Ar36": {
+        "error": 0.00023794815774401786, 
+        "fit": "previous", 
+        "references": [
+            {
+                "exclude": false, 
+                "runid": "bu-FC-F-14"
+            }
+        ], 
+        "value": 0.0040037327351536665
+    }, 
+    "Ar37": {
+        "error": 0.01180547278552976, 
+        "fit": "previous", 
+        "references": [
+            {
+                "exclude": false, 
+                "runid": "bu-FC-F-14"
+            }
+        ], 
+        "value": 0.019954992195071825
+    }, 
+    "Ar38": {
+        "error": 0.013011130419664828, 
+        "fit": "previous", 
+        "references": [
+            {
+                "exclude": false, 
+                "runid": "bu-FC-F-14"
+            }
+        ], 
+        "value": 0.01721833545196834
+    }, 
+    "Ar39": {
+        "error": 0.02408223246172748, 
+        "fit": "previous", 
+        "references": [
+            {
+                "exclude": false, 
+                "runid": "bu-FC-F-14"
+            }
+        ], 
+        "value": 0.04265556515878574
+    }, 
+    "Ar40": {
+        "error": 0.020318781035004046, 
+        "fit": "previous", 
+        "references": [
+            {
+                "exclude": false, 
+                "runid": "bu-FC-F-14"
+            }
+        ], 
+        "value": 0.8769740007962848
+    }
+}
