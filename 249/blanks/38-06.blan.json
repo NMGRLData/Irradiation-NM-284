@@ -1,68 +1,178 @@
 {
     "Ar36": {
-        "error": 0.00012859175800650045, 
-        "fit": "previous", 
+        "error": 0.00010475706100445526,
+        "fit": "Bracketing Interpolate",
         "references": [
             {
-                "exclude": false, 
-                "runid": "bu-FC-J-6769"
+                "exclude": "ok",
+                "record_id": "bu-FC-J-6766",
+                "uuid": "75a31cd6-d4ba-4cd4-ac40-6e5348931fc4"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bu-FC-J-6767",
+                "uuid": "0bc570de-a823-4859-b968-7c547407e69e"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bu-FC-J-6768",
+                "uuid": "77841f4c-8d3d-4e03-a58a-379e2318c604"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bu-FC-J-6769",
+                "uuid": "07d19aa5-8378-4a14-933c-5fffce14bd8c"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bu-FC-J-6770",
+                "uuid": "c4d87065-6f6c-439f-9e51-544c7b755352"
             }
-        ], 
-        "value": 0.00212567564920788
-    }, 
+        ],
+        "reviewed": true,
+        "value": 0.0022402726020750692
+    },
     "Ar37": {
-        "error": 0.0051240944366098915, 
-        "fit": "previous", 
+        "error": 0.004286406895905791,
+        "fit": "Bracketing Interpolate",
         "references": [
             {
-                "exclude": false, 
-                "runid": "bu-FC-J-6769"
+                "exclude": "ok",
+                "record_id": "bu-FC-J-6766",
+                "uuid": "75a31cd6-d4ba-4cd4-ac40-6e5348931fc4"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bu-FC-J-6767",
+                "uuid": "0bc570de-a823-4859-b968-7c547407e69e"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bu-FC-J-6768",
+                "uuid": "77841f4c-8d3d-4e03-a58a-379e2318c604"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bu-FC-J-6769",
+                "uuid": "07d19aa5-8378-4a14-933c-5fffce14bd8c"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bu-FC-J-6770",
+                "uuid": "c4d87065-6f6c-439f-9e51-544c7b755352"
             }
-        ], 
-        "value": 0.026414253211177047
-    }, 
+        ],
+        "reviewed": true,
+        "value": 0.02812278586579401
+    },
     "Ar38": {
-        "error": 0.002140848134588362, 
-        "fit": "previous", 
+        "error": 0.0017768697194271545,
+        "fit": "Bracketing Interpolate",
         "references": [
             {
-                "exclude": false, 
-                "runid": "bu-FC-J-6769"
+                "exclude": "ok",
+                "record_id": "bu-FC-J-6766",
+                "uuid": "75a31cd6-d4ba-4cd4-ac40-6e5348931fc4"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bu-FC-J-6767",
+                "uuid": "0bc570de-a823-4859-b968-7c547407e69e"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bu-FC-J-6768",
+                "uuid": "77841f4c-8d3d-4e03-a58a-379e2318c604"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bu-FC-J-6769",
+                "uuid": "07d19aa5-8378-4a14-933c-5fffce14bd8c"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bu-FC-J-6770",
+                "uuid": "c4d87065-6f6c-439f-9e51-544c7b755352"
             }
-        ], 
-        "value": 0.01956939139646816
-    }, 
+        ],
+        "reviewed": true,
+        "value": 0.017882223329671543
+    },
     "Ar39": {
-        "error": 0.00899871290018582, 
-        "fit": "previous", 
+        "error": 0.007032311377541371,
+        "fit": "Bracketing Interpolate",
         "references": [
             {
-                "exclude": false, 
-                "runid": "bu-FC-J-6769"
+                "exclude": "ok",
+                "record_id": "bu-FC-J-6766",
+                "uuid": "75a31cd6-d4ba-4cd4-ac40-6e5348931fc4"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bu-FC-J-6767",
+                "uuid": "0bc570de-a823-4859-b968-7c547407e69e"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bu-FC-J-6768",
+                "uuid": "77841f4c-8d3d-4e03-a58a-379e2318c604"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bu-FC-J-6769",
+                "uuid": "07d19aa5-8378-4a14-933c-5fffce14bd8c"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bu-FC-J-6770",
+                "uuid": "c4d87065-6f6c-439f-9e51-544c7b755352"
             }
-        ], 
-        "value": 0.03577219660976567
-    }, 
+        ],
+        "reviewed": true,
+        "value": 0.02502400353497646
+    },
     "Ar40": {
-        "error": 0.007343082990511099, 
-        "fit": "previous", 
+        "error": 0.0058612876777709875,
+        "fit": "Bracketing Interpolate",
         "references": [
             {
-                "exclude": false, 
-                "runid": "bu-FC-J-6769"
+                "exclude": "ok",
+                "record_id": "bu-FC-J-6766",
+                "uuid": "75a31cd6-d4ba-4cd4-ac40-6e5348931fc4"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bu-FC-J-6767",
+                "uuid": "0bc570de-a823-4859-b968-7c547407e69e"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bu-FC-J-6768",
+                "uuid": "77841f4c-8d3d-4e03-a58a-379e2318c604"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bu-FC-J-6769",
+                "uuid": "07d19aa5-8378-4a14-933c-5fffce14bd8c"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bu-FC-J-6770",
+                "uuid": "c4d87065-6f6c-439f-9e51-544c7b755352"
             }
-        ], 
-        "value": 0.4525045604794611
-    }, 
+        ],
+        "reviewed": true,
+        "value": 0.49569740201119505
+    },
     "Ar41": {
-        "error": 0.004935585316336641, 
-        "fit": "previous", 
+        "error": 0.004935585316336641,
+        "fit": "previous",
         "references": [
             {
-                "exclude": false, 
+                "exclude": false,
                 "runid": "bu-FC-J-6769"
             }
-        ], 
+        ],
         "value": -0.0023418345244249072
     }
 }
