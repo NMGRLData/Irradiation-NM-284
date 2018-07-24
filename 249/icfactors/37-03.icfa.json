@@ -1,9 +1,66 @@
 {
     "AX": {
-        "error": 1e-20,
-        "fit": "default",
-        "references": [],
-        "value": 1.0
+        "error": 0.00017857534558536554,
+        "fit": "Bracketing Interpolate",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "c-02-J-236",
+                "uuid": "2ce74f7f-1c66-4109-8838-07d5d8039415"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-02-J-237",
+                "uuid": "4000268f-beaf-43e0-9a8d-04ff52adb6ef"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-02-J-238",
+                "uuid": "09ec81e5-47ff-44df-bf2b-620c4cbf90a4"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-02-J-250",
+                "uuid": "0f7ca78f-cce9-4d91-bb3b-b36770836d33"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-02-J-251",
+                "uuid": "4170b183-098e-450e-bc07-48913b72228e"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-02-J-252",
+                "uuid": "22cee01a-0d77-4711-af70-4e3f2358ca83"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-02-J-253",
+                "uuid": "e1c064c6-d4f5-4865-8d0b-421166c18bad"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-02-J-254",
+                "uuid": "1fe14d7f-bead-4064-9353-cbeb82c94b26"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-02-J-255",
+                "uuid": "1a0f010e-1452-44a9-92b3-c77c8fa5dc0e"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-02-J-256",
+                "uuid": "3b9ab0a8-5845-4ac4-bce5-cf7a58ec7f1b"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-02-J-257",
+                "uuid": "557c84a9-bda0-4bee-bc5a-0d53e166e3b4"
+            }
+        ],
+        "reviewed": true,
+        "value": 0.9957758597848273
     },
     "CDD": {
         "error": 0.0023432011102474076,
